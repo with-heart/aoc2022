@@ -1,0 +1,19 @@
+{
+  "name": "aoc2022",
+  "description": "Advent of Code 2022",
+  "type": "module",
+  "scripts": {
+    "start": "tsx",
+    "watch": "tsx watch",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "with-heart <with.heart+git@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node18-strictest": "^1.0.0",
+    "@types/node": "^18.11.13",
+    "tsx": "^3.12.1",
+    "vitest": "^0.25.7"
+  }
+}
